@@ -2,23 +2,23 @@
 
 /* I'm not sure why this is working now that I have charset utf-8 above... */
 
-html {
-	-webkit-appearance: none;
-	background-color: green;
+.header {
+	text-align: right;
 }
 
-p {
-	color: red;
-	text-align: center;
+.logo {
+	margin: auto;
+	padding-top: 170px;
 }
 
-h1 {
-	color: blue;
-	text-align: center;
+img {
+	display: block;
+	margin: auto;
+	width: 272px;
+	height: 92px;
 }
 
-h1:hover {
-	color: orange;
-	text-decoration: underline;
+.search {
+	width: 40%;
+	margin: auto;
 }
-
