@@ -19,6 +19,29 @@ img {
 }
 
 .search {
-	width: 40%;
 	margin: auto;
+	max-width: 600px;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	border-color: black;
+	border: 1px;
+	border-style: solid;
+}
+
+input {
+	width: 100%;
+}
+
+input[type=text] {
+	width: 100%;
+	padding: 5px 9px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	font-size: 16px;
+	line-height: 26px;
+}
+
+.bottom-buttons {
+	text-align: center;
 }
