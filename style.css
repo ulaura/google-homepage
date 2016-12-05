@@ -20,9 +20,9 @@ img {
 
 .search {
 	margin: auto;
-	max-width: 600px;
+	max-width: 570px;
 	text-align: center;
-	padding-top: 30px;
+	padding-top: 27px;
 	padding-bottom: 10px;
 	border-color: black;
 	border: 1px;
@@ -50,4 +50,7 @@ input[type=text] {
 
 .bottom-buttons {
 	text-align: center;
+}
+
+button {
 }
